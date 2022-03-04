@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "wildan",
+    "email": "wildan@gmail.com",
+    "nrp": "218273633",
+    "jurusan": "programming",
+    "idDosenEmail": 1
+  },
+  {
+    "nama": "hudza",
+    "email": "hudza@gmail.com",
+    "nrp": "218273634",
+    "jurusan": "desain grafis",
+    "idDosenEmail": 2
+  },
+  {
+    "nama": "aziz",
+    "email": "aziz@gmail.com",
+    "nrp": "218273635",
+    "jurusan": "multimedia",
+    "idDosenEmail": 3
+  }
+]
